@@ -1,99 +1,32 @@
 <h1 align="center">Hi 👋, I'm Bola Lokesh</h1>
 <h3 align="center">Detail-oriented Full Stack Developer passionate about scalable backend systems, cloud technologies, and modern web applications from India.</h3>
 
----
+- 🔭 I’m currently working on ****CISO Risk Assessment Platform** at IQTree Techsoft**
 
-## 🔭 I’m currently working on
-- **CISO Risk Assessment Platform** at [IQTree Techsoft](https://iqtreetechsoft.com)
+- 🌱 I’m currently learning ****React.js, Node.js, AWS deployment, Docker orchestration****
 
-## 👯 I’m looking to collaborate on
-- Open-source **Spring Boot / React / Node.js** projects
-- Cloud-native microservices and containerized deployments
+- 👯 I’m looking to collaborate on [Open-source **Spring Boot / React / Node.js** projects](https://github.com/BolaLokesh)
 
-## 🤝 I’m looking for help with
-- CI/CD pipelines on **AWS & Docker**
-- Advanced cloud orchestration with **Kubernetes**
+- 🤝 I’m looking for help with **Advanced **CI/CD pipelines**, Kubernetes, and cloud-native deployment**
 
-## 🌱 I’m currently learning
-- React.js, Node.js, AWS deployment
-- DevOps tools and containerization best practices
+- 👨‍💻 All of my projects are available at [https://bolalokesh.github.io/bolalokesh-portfolio/](https://bolalokesh.github.io/bolalokesh-portfolio/)
 
-## 💬 Ask me about
-- Java, Spring Boot, REST APIs, Docker, AWS
-- Building scalable backend systems
+- 📝 I regularly write articles on [Coming soon – personal blog](Coming soon – personal blog)
 
-## 📫 How to reach me
-- bolalokesh21@gmail.com
-- [LinkedIn](https://linkedin.com/in/bolalokesh)
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Docker, AWS, scalable backend systems**
 
-## 👨‍💻 All of my projects are available at
-- [**Portfolio**](https://bolalokesh.github.io/bolalokesh-portfolio/)
+- 📫 How to reach me **bolalokesh21@gmail.com**
 
-## 📄 Know about my experiences
-- [View my Resume (PDF)](https://drive.google.com/file/d/1VwCnbfIiUMPDdfiO4c4sClwP5aaNTQbM/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VwCnbfIiUMPDdfiO4c4sClwP5aaNTQbM/view?usp=drive_link](https://drive.google.com/file/d/1VwCnbfIiUMPDdfiO4c4sClwP5aaNTQbM/view?usp=drive_link)
 
-## ⚡ Fun fact
-- Debugging is my cardio!
+- ⚡ Fun fact **Debugging is my cardio!**
 
----
-
-## 🛠️ Skills
-
-### Programming Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=githubactions)
-
-### Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellijidea)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
-
----
-
-## 🏆 Achievements
-- Built & deployed **5+ full-stack apps** after completing Full Stack Java course.
-- 🌍 Top global ranking in **JavaScript & Node.js on TestDome (Apr 2025)**.
-- Processed and validated **100+ billing records** in a production-like web app.
-- Developed & deployed containerized microservices to AWS.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BolaLokesh&show_icons=true&theme=tokyonight" alt="Bola Lokesh GitHub stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BolaLokesh&theme=tokyonight" alt="Bola Lokesh streak stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolaLokesh&layout=compact&theme=tokyonight" alt="Top languages"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bolalokesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bolalokesh/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bolalokesh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bolalokesh21" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@bolalokesh21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@bolalokesh21/" height="30" width="40" /></a>
 </p>
 
----
-
-## 📫 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/bolalokesh"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:bolalokesh21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail"/></a>
-  <a href="https://github.com/BolaLokesh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
-</p>
-
-> ⚡ *Always learning, building, and contributing to open source & real-world projects!*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
