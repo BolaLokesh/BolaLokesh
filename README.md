@@ -33,7 +33,7 @@
 - *(Coming soon – personal blog)*
 
 ## 📄 Know about my experiences
-- [**View my Resume (PDF)**](#)
+- [**View my Resume (PDF)**](https://drive.google.com/file/d/1VwCnbfIiUMPDdfiO4c4sClwP5aaNTQbM/view?usp=drive_link)
 
 ## ⚡ Fun fact
 - Debugging is my cardio!
