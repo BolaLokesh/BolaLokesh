@@ -4,7 +4,7 @@
 ---
 
 ## 🔭 I’m currently working on
-- **CISO Risk Assessment Platform** at [IQTree Techsoft](https://iqtreetechsoft.com)
+- **CISO Risk Assessment Platform** at [IQTree Techsoft](https://iqtreetechsoft.com/)
 
 ## 👯 I’m looking to collaborate on
 - Open-source **Spring Boot / React / Node.js** projects
@@ -30,7 +30,7 @@
 - [**Portfolio**](https://bolalokesh.github.io/bolalokesh-portfolio/)
 
 ## 📄 Know about my experiences
-- [View my Resume (PDF)](https://drive.google.com/file/d/your-resume-link)
+- [View my Resume (PDF)]([https://drive.google.com/file/d/your-resume-link](https://drive.google.com/file/d/1VwCnbfIiUMPDdfiO4c4sClwP5aaNTQbM/view?usp=drive_link))
 
 ## ⚡ Fun fact
 - Debugging is my cardio!
@@ -52,7 +52,6 @@
 
 ### Backend Development
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)
 
 ### Databases
