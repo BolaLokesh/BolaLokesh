@@ -71,7 +71,7 @@
 
 ## 🏆 Achievements
 - Built & deployed **5+ full-stack apps** after completing Full Stack Java course.
-- 🌍 Top global ranking in **JavaScript & Node.js on TestDome (Apr 2025)**.
+- Top global ranking in **JavaScript & Node.js on TestDome (Apr 2025)**.
 - Processed and validated **100+ billing records** in a production-like web app.
 - Developed & deployed containerized microservices to AWS.
 
